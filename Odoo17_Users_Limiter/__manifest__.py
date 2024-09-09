@@ -2,7 +2,8 @@
 {
     'name': "Odoo Users Limiter",
     'version': '17.0.0.0',
-    'author': "Bytelegion",
+    'author': "Ben Taieb Med Amine",
+    'maintainer': "iifast2",
     'website': "http://medaminebt.com",
     'depends': ['base'],
     'license': "AGPL-3",
